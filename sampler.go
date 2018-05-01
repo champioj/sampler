@@ -35,7 +35,7 @@ func Hello(prefs ...language.Tag) string {
 }
 
 func Glass() string {
-	return "I can eat glass and it doesn't hurt me. 4"
+	return "I can eat glass and it doesn't hurt me. 5"
 }
 
 // A text is a localized text.
