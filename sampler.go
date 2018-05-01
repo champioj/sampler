@@ -3,7 +3,7 @@
 // license that can be found in the LICENSE file.
 
 // Package sampler shows simple texts.
-package sampler // import "rsc.io/sampler"
+package sampler // import "github.com/champioj/sampler/v7"
 
 import (
 	"os"
